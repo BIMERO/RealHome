@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "header": "Quick Links",
+    "link1": "About us",
+    "link2": "Vision and Values",
+    "link3": "Expertise",
+    "link4": "Testimonials"
+  },
+  {
+    "id": 2,
+    "header": "Resources",
+    "link1": "Blog",
+    "link2": "FAQ",
+    "link3": "Guides and Articles",
+    "link4": "Neiigbourhood Insights"
+  },
+  {
+    "id": 3,
+    "header": "Property Listings",
+    "link1": "Residential properties",
+    "link2": "Commercial properties",
+    "link3": "Featured  properties",
+    "link4": "Land listings"
+  }
+]

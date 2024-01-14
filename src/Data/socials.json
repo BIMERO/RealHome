@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "cover": "/images/instagram.svg",
+    "name": "Instagram"
+  },
+  {
+    "id": 2,
+    "cover": "/images/Facebook.svg",
+    "name": "Facebook"
+  },
+  {
+    "id": 3,
+    "cover": "/images/twitter-x.svg",
+    "name": "Twitter"
+  },
+  {
+    "id": 4,
+    "cover": "/images/YouTube.svg",
+    "name": "YouTube"
+  }
+]

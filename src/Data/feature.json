@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "cover": "/images/feature1.jfif",
+    "name": "Seaside Villa Retreat",
+    "location": "Calabar"
+  },
+  {
+    "id": 2,
+    "cover": "/images/feature2.jfif",
+    "name": "Countryside Estate",
+    "location": "Abuja"
+  },
+  {
+    "id": 3,
+    "cover": "/images/feature3.png",
+    "name": "Contemporary Shore",
+    "location": "Obubra"
+  }
+]

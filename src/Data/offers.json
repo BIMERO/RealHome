@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "offer": "Property Sales",
+    "para": "We specialize in facilitating the sale of diverse properties, from residential homes to commercial spaces. Our expertise ensures seamless transactions and optimal value for your property."
+  },
+  {
+    "id": 2,
+    "offer": "Property Rentals",
+    "para": "Explore a range of rental options, from apartments to luxury estates. We assist both tenants in finding their ideal rental property and landlords in leasing their spaces efficiently."
+  },
+  {
+    "id": 3,
+    "offer": "Property Management",
+    "para": "Entrust us with the management of your property. Our comprehensive services cover tenant relations, maintenance, financial oversight, and more, ensuring your property is well-maintained and profitable."
+  },
+  {
+    "id": 4,
+    "offer": "Consulting Services",
+    "para": "Benefit from our expert consultancy services, whether you're a buyer, seller, investor, or developer. We provide valuable insights, market analysis, and strategic advice tailored to your real estate needs."
+  },
+  {
+    "id": 5,
+    "offer": "Investment Opportunities",
+    "para": "Discover lucrative investment opportunities in the real estate market. We offer guidance on potential investment properties, helping you make informed decisions for optimal returns."
+  },
+  {
+    "id": 6,
+    "offer": "Customized Solutions",
+    "para": "We specialize in facilitating the sale of diverse properties, from residential homes to commercial spaces. Our expertise ensures seamless transactions and optimal value for your property."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "360 views",
+    "cover": "/images/eye.svg",
+    "para": "We allow you potential buyers or renters to virtually walk through a property, getting a feel of its ambiance."
+  },
+  {
+    "id": 2,
+    "name": "Property Search Filters",
+    "cover": "/images/Vector.svg",
+    "para": "We offer an advanced search functionality that lets users to filter filter properties by location, price range, property type (house, apartment, etc.)."
+  },
+  {
+    "id": 3,
+    "name": "Interactive Property Maps",
+    "cover": "/images/anger.svg",
+    "para": "We incorporate an interactive map feature that allows users to explore properties visually Pinpointing property locations, neighborhood information."
+  }
+]
